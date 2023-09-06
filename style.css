@@ -1,0 +1,17 @@
+.copy_right_footer{
+    position: center;
+}
+
+.body{
+    background-color: greenyellow;
+}
+
+.h1{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 4;
+}
+
+.h4{
+    font-style: oblique;
+}
